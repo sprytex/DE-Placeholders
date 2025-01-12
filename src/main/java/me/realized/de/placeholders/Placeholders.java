@@ -20,7 +20,7 @@ import me.realized.duels.api.spectate.SpectateManager;
 import me.realized.duels.api.spectate.Spectator;
 import me.realized.duels.api.user.User;
 import me.realized.duels.api.user.UserManager;
-import org.apache.commons.lang.time.DurationFormatUtils;
+import org.apache.commons.lang3.time.DurationFormatUtils;
 import org.bukkit.configuration.file.FileConfiguration;
 import org.bukkit.entity.Player;
 import org.bukkit.event.EventHandler;
